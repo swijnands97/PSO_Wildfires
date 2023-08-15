@@ -1,3 +1,8 @@
+"""
+This file implements the PSO algorithm from scratch.
+Subsequently, it allows for all sensitivity analyses to be run (controlled using the Boolean switches).
+"""
+
 # Importing all relevant modules
 import numpy as np
 import pandas as pd
