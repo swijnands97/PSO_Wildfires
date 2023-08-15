@@ -8,7 +8,7 @@ Sets the base values of all core parameters.
 Implements the PSO algoritm from scratch and performs all analyses. 
 
 ### fires.py
-Generates the forest fire scenarious (binary matrix lists).
+Generates the forest fire scenarious (binary matrix lists), saves at .pkl files.
 
 ### forest_fire.py
 Contains the forest_fire class with all attributes and methods.
